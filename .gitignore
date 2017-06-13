@@ -25,6 +25,9 @@ build/Release
 
 # Dependency directories
 node_modules
+!node_modules/bpmn-js
+!node_modules/bpmn-js-properties-panel
+!node_modules/bpmn-moddle
 jspm_packages
 
 # Optional npm cache directory

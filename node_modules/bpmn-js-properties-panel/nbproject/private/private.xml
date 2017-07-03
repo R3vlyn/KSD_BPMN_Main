@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/element-templates/cmd/index.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/factory/ComboEntryFactory.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/bpmn/index.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/factory/TextInputEntryFactory.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/index.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/element-templates/cmd/ChangeElementTemplateHandler.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/bpmn/BpmnPropertiesProvider.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/nbproject/private/private.properties</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/parts/StartEventInitiator.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/PropertiesPanel.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/descriptors/magic.json</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/popup.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/PropertiesActivator.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/MagicPropertiesProvider.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/factory/EntryFactory.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/parts/FormProps.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/element-templates/CustomElementsPropertiesActivator.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/element-templates/parts/CustomProps.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/parts/SpellProps.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/parts/VersionTagProps.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/parts/UserTaskProps.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/CamundaPropertiesProvider.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/index.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/factory/SelectEntryFactory.js</file>
+            <file>file:/C:/GitHubProjects/KSD-Camunda/properties-panel/node_modules/bpmn-js-properties-panel/lib/provider/camunda/index.js</file>
+        </group>
+    </open-files>
+</project-private>

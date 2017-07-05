@@ -156,6 +156,13 @@ $(document).on('ready', function() {
     });
 
     saveDiagram(function(err, xml) {
+                    $.post("http://localhost:8228/api/BPMN",
+                  "dasdf",
+                  function (value) {
+                        alert(value.xml);
+                  },
+                  "json"
+            );
       setEncoded(downloadLink, 'diagram.bpmn', err ? null : xml);
     });
   }, 500);

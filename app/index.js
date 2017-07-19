@@ -157,9 +157,9 @@ $(document).on('ready', function() {
 
     saveDiagram(function(err, xml) {
                     $.post("http://localhost:8228/api/BPMN",
-                  "dasdf",
+                    "="+xml,
                   function (value) {
-                        alert(value.xml);
+                        alert(value);
                   },
                   "json"
             );
